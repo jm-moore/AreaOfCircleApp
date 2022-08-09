@@ -1,0 +1,15 @@
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\bin\Debug\net6.0\CircleAreaApp.exe
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\bin\Debug\net6.0\CircleAreaApp.deps.json
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\bin\Debug\net6.0\CircleAreaApp.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\bin\Debug\net6.0\CircleAreaApp.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\bin\Debug\net6.0\CircleAreaApp.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\refint\CircleAreaApp.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\CircleAreaApp.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\CircleAreaApp\CircleAreaApp\obj\Debug\net6.0\ref\CircleAreaApp.dll
